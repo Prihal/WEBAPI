@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WEBAPI_REL2.props" />
+</Project>
